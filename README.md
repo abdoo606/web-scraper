@@ -20,3 +20,7 @@ pytest projects/20-web-scraper -q
 - Per-host rate limiting and a page/depth budget
 - Network failures are recorded as data, never abort the crawl
 - HTTP client injected, so the whole crawl is tested with a dictionary of pages
+
+## Repository
+- GitHub: https://github.com/{owner}/web-scraper
+- Python 3.11+ · tests: `pytest` · runtime dependencies: none (standard library only)
